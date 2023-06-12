@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    background-color: purple;
+}
+#calcbackground{
+    height: 500px;
+    width : 550px;
+    background-color: white;
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0px;
+    bottom: 0;
+    margin: auto;
+
+    z-index: 99999;
+
+}
